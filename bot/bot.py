@@ -2,7 +2,7 @@ import discord
 
 import requests 
 
-token = 'MTE4Njc3NTg5Nzc2OTAwMTE3MQ.Gw2wsq.Qai6BanmxcpDeT-OhoERS6DVhVzUZffQ_kohiY'
+token = 'Discord bot token'
 
 intents = discord.Intents.default()
 intents.messages = True  # Enable the bot to receive messages
